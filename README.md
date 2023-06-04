@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently study in  **Chongqing**
 - 🌱 I’m currently learning  **FE**
-- 👯 I’m looking to collaborate on coding
+- 👯 I’m looking to collaborate on  **similar interests**
 
 ## 🏆 sunsunmonkey‘s GitHub stats
 [![sunsunmonkey's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunsunmonkey )](https://github.com/anuraghazra/github-readme-stats) 
