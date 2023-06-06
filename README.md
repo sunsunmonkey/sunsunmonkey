@@ -5,11 +5,11 @@
 - 👯 I’m looking to collaborate on  **similar interests**
 
 ## 🏆 sunsunmonkey‘s GitHub stats
-[![sunsunmonkey's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunsunmonkey)](https://github.com/anuraghazra/github-readme-stats) 
+[![sunsunmonkey's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunsunmonkey&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## 📚 The current commonly used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunsunmonkey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunsunmonkey&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,redux,java,python,git,md,mysql,webpack)](https://skillicons.dev)
