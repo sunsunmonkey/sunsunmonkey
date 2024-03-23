@@ -14,7 +14,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunsunmonkey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,express,react,redux,vue,java,python,git,md,mysql,webpack,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,express,react,redux,vue,rust,java,python,git,md,mysql,webpack,vite)](https://skillicons.dev)
 
 ## 🛠️ software
 [![My Skills](https://skillicons.dev/icons?i=vscode,postman,idea,eclipse,github,gitlab)](https://skillicons.dev)
