@@ -14,10 +14,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunsunmonkey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,less,tailwind,babel,typescript,nodejs,express,react,nextjs,redux,vue,rust,java,python,git,md,mysql,webpack,rollupjs,vite,vitest,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,less,tailwind,babel,typescript,nodejs,bun,express,react,nextjs,redux,vue,rust,java,python,git,md,mysql,webpack,rollupjs,vite,vitest,jest)](https://skillicons.dev)
 
 ## 🛠️ software
-[![My Skills](https://skillicons.dev/icons?i=vscode,codepen,postman,idea,pycharm,eclipse,github,githubactions,gitlab,npm,pnpm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,codepen,postman,idea,pycharm,eclipse,github,githubactions,gitlab,npm,pnpm,yarn)](https://skillicons.dev)
 <!--
 **sunsunmonkey/sunsunmonkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
