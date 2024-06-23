@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently study in  **Chongqing**
-- 🌱 I’m currently learning  **FE**
+- 🌱 I’m currently learning  **FE** and **rust**
 - 👯 I’m looking to collaborate on  **similar interests**
 - 🕊️ my yuque https://www.yuque.com/yuqueyonghuyrwudx
 - 🐵 my blog  https://sunsunmonkey.github.io/
