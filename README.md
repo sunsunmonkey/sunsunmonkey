@@ -18,6 +18,8 @@
 
 ## 🛠️ software
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,codepen,postman,idea,pycharm,eclipse,github,githubactions,gitlab,npm,pnpm,yarn)](https://skillicons.dev)
+
+![commit snake](https://raw.githubusercontent.com/sunsunmonkey/sunsunmonkey/output/github-contribution-grid-snake.svg)
 <!--
 **sunsunmonkey/sunsunmonkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
